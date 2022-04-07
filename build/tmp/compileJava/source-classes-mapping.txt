@@ -1,0 +1,4 @@
+com/epam/gradle/task/Main.java
+ com.epam.gradle.task.Main
+com/epam/gradle/task/StringUtils.java
+ com.epam.gradle.task.StringUtils

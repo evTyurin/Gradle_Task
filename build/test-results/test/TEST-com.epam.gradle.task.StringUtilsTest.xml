@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.gradle.task.StringUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-07T06:14:56" hostname="DESKTOP-2TNGSKQ" time="0.066">
+  <properties/>
+  <testcase name="whenNumberIsPositiveThenTrue()" classname="com.epam.gradle.task.StringUtilsTest" time="0.066"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

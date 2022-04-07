@@ -1,0 +1,2 @@
+com/epam/gradle/task/StringUtilsTest.java
+ com.epam.gradle.task.StringUtilsTest

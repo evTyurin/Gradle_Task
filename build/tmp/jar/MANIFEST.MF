@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Archive-Version: 1.3.5
+Archive-Name: utils
+Main-Class: com.epam.gradle.task.Main
+
